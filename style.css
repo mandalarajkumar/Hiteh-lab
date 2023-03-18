@@ -1,0 +1,81 @@
+
+.main_header{
+    background-color:black;
+    color: #ffff;
+    text-align: center;
+    height: 50px;
+    margin-top: 0px;
+    position: relative;
+}
+.logo-1{
+  position: relative;
+
+}
+.border{
+    margin: 2px 0px 0px 40px;
+    border-radius: 5px;
+    border: 2px solid white !important;
+  font-size: 20px;
+}
+.child{
+    background: url(../images/home-bck-image.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 590px;
+}
+a{
+text-decoration: none !important;
+color: black !important;
+font-size: 20px;
+
+}
+li{
+    display: inline;
+  }
+   ul.nav.nav-pills {
+    position: absolute;
+   
+    top: 50px;
+    right: 20px;
+     /* padding-top: 0px;
+   
+    margin-left: 635px;
+    padding-left: 102px; */
+} 
+  
+  .nav-pills {
+    position: relative;
+      list-style-type: none;
+      display: flex;
+      width: 40%;
+      justify-content: none;
+  }
+  li.nav-item {
+    margin-left: 30px;
+  }
+  .nav {
+    color: #fff;
+    padding-left: 55px;
+    /*margin-left: 850px;*/
+    margin-left: 314px;
+  }
+  .hitec{
+    text-align: center;
+    padding-top: 250px;
+    font-weight: bold;
+    color: green;
+  }
+  .sample{
+    text-align: center;
+    font-weight: bold;
+    color: green;
+  }
+  .free{
+    background-color: rgba(242, 242, 242, 1);
+    height: 200px;
+     /* text-align: center; */
+    padding-top: 120px;
+    margin-top: 20px;
+  }
+  
